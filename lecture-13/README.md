@@ -65,7 +65,7 @@
 
 
 ```
-## Вміст app.css:
+## Вміст css/main.css:
 ```css
 .first {
     color: red;
