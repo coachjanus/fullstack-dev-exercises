@@ -14,46 +14,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Profile Card</title>  
     <link rel="stylesheet" href="css/main.css">
-    <style>
-      .profile-cards-container {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 16px;
-        justify-content: center;
-      }
-      .profile-card {
-        border: 1px solid #ccc;
-        border-radius: 8px;
-        padding: 16px;
-        margin: 16px;
-        margin-top: 80px;
-        box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);
-        max-width: 300px;
-        text-align: center;
-        font-family: Arial, sans-serif;
-      }
-      .profile-card img {
-        border-radius: 50%;
-        width: 100px;
-        height: 100px;
-        object-fit: cover;
-        margin-bottom: 16px;
-      }
-      .profile-card .profile-title {
-        font-size: 1.2em;
-        font-weight: bold;
-        margin-bottom: 8px;
-      }
-      .profile-card .profile-job-title {
-        font-size: 1em;
-        color: #777;
-        margin-bottom: 16px;
-      }
-      .profile-card .profile-description {
-        font-size: 0.9em;
-        color: #555;
-      }
-    </style>
+    
   </head>
   <body>
     <div id="profile-cards-container" class="profile-cards-container">
